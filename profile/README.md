@@ -29,8 +29,6 @@ Happy Hacking! 🌟
 
 **[🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)**
 
-![cna](https://user-images.githubusercontent.com/17727170/229553510-49d0d46f-11ac-4b07-acf3-8db8ce7959ec.gif)
-
 ## Sponsored External Projects
 
 We proudly sponsor the following projects:
