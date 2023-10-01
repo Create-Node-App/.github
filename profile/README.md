@@ -1,4 +1,4 @@
-# Welcome to Create Awesome Node App
+# Welcome to 🌟 Create Awesome Node App 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" alt="" align="left" width="175px" srcset="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
@@ -10,6 +10,10 @@
 Join us in celebrating the spirit of Hacktoberfest by contributing to our open-source projects. Your contributions make a difference! 🙌
 
 Happy Hacking! 🌟
+
+## Find us on Npm! [🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)
+
+![cna](https://user-images.githubusercontent.com/17727170/229553510-49d0d46f-11ac-4b07-acf3-8db8ce7959ec.gif)
 
 ## Our Featured Repositories
 
