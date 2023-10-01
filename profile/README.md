@@ -39,5 +39,7 @@ We proudly sponsor the following projects:
 
 ## Sponsored by
 
-[![image](https://github.com/Create-Node-App/.github/assets/17727170/c84ffa2e-effb-41e3-9938-be8fae1fd9d2)](https://github.com/nanlabs)
+<a href="https://github.com/nanlabs" target="_blank">
+  <img alt="Sponsored by NaNLABS" width="100px" src="https://github.com/Create-Node-App/.github/assets/17727170/c84ffa2e-effb-41e3-9938-be8fae1fd9d2" />
+</a>
 
