@@ -1,9 +1,18 @@
-# Welcome to 🌟 Create Awesome Node App 🚀
+# 🌟 Welcome to Create Awesome Node App 🚀
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="175px" srcset="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
-  <img alt="" align="left" width="175px" src="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
+  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="200px" srcset="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
+  <img alt="" align="left" width="200px" src="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
 </picture>
+
+[![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite#get-started)
+[![npm][npmversion]][npmurl]
+[![npm][npmdownloads]][npmurl]
+
+[npmversion]: https://img.shields.io/npm/v/create-awesome-node-app.svg?maxAge=2592000?style=plastic
+[npmdownloads]: https://img.shields.io/npm/dm/create-awesome-node-app.svg?maxAge=2592000?style=plastic
+[ciurl]: https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml
+[npmurl]: https://www.npmjs.com/package/create-awesome-node-app
 
 🚀 Welcome to Create Awesome Node App project! We're thrilled to have you here as part of our vibrant open-source community. Explore our highlighted repositories to find exciting projects to contribute to during Hacktoberfest! 🎉
 
@@ -16,7 +25,9 @@ Happy Hacking! 🌟
 - **[create-awesome-node-app](https://github.com/Create-Node-App/create-node-app):** A powerful tool to scaffold your application. Choose from different templates and extensions for web apps, web extensions, monorepos, and more! 🌐
 - **[cna-templates](https://github.com/Create-Node-App/cna-templates):** Repository that contains the official templates and extensions for the [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) package! 🚀
 
-## Find us on Npm! [🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)
+## Find us on Npm!
+
+**[🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)**
 
 ![cna](https://user-images.githubusercontent.com/17727170/229553510-49d0d46f-11ac-4b07-acf3-8db8ce7959ec.gif)
 
