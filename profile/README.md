@@ -11,17 +11,22 @@ Join us in celebrating the spirit of Hacktoberfest by contributing to our open-s
 
 Happy Hacking! 🌟
 
-## Find us on Npm! [🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)
-
-![cna](https://user-images.githubusercontent.com/17727170/229553510-49d0d46f-11ac-4b07-acf3-8db8ce7959ec.gif)
-
 ## Our Featured Repositories
 
 - **[create-awesome-node-app](https://github.com/Create-Node-App/create-node-app):** A powerful tool to scaffold your application. Choose from different templates and extensions for web apps, web extensions, monorepos, and more! 🌐
 - **[cna-templates](https://github.com/Create-Node-App/cna-templates):** Repository that contains the official templates and extensions for the [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) package! 🚀
+
+## Find us on Npm! [🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)
+
+![cna](https://user-images.githubusercontent.com/17727170/229553510-49d0d46f-11ac-4b07-acf3-8db8ce7959ec.gif)
 
 ## Sponsored External Projects
 
 We proudly sponsor the following projects:
 
 - **[recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools):** Supercharge your Recoil development workflow (or any other state management architecture) with these developer tools. Simplify state change management like never before! 🔍
+
+## Sponsored by
+
+[![image](https://github.com/Create-Node-App/.github/assets/17727170/c84ffa2e-effb-41e3-9938-be8fae1fd9d2)](https://github.com/nanlabs)
+
