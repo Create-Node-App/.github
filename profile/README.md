@@ -23,7 +23,7 @@ Happy Hacking! 🌟
 ## Our Featured Repositories
 
 - **[create-awesome-node-app](https://github.com/Create-Node-App/create-node-app):** A powerful tool to scaffold your application. Choose from different templates and extensions for web apps, web extensions, monorepos, and more! 🌐
-- **[cna-templates](https://github.com/Create-Node-App/cna-templates):** Repository that contains the official templates and extensions for the [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) package! 🚀
+- **[cna-templates](https://github.com/Create-Node-App/cna-templates):** Repository that contains the official templates and extensions for the [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) package!
 
 ## Find us on Npm!
 
