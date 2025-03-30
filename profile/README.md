@@ -27,7 +27,7 @@ Happy Hacking! 🌟
 
 ## Find us on Npm!
 
-**[🌟 Create Awesome Node App 🚀](https://www.npmjs.com/package/create-awesome-node-app)**
+🌟 **[Create Awesome Node App](https://www.npmjs.com/package/create-awesome-node-app)** 🚀
 
 ## Sponsored External Projects
 
