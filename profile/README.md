@@ -9,7 +9,6 @@
 [![npm][npmversion]][npmurl]
 [![npm][npmdownloads]][npmurl]
 [![Website](https://img.shields.io/badge/website-create--node--app.github.io-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
-[![CI](https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml)
 
 <br clear="left" />
 
