@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite#get-started)
 [![npm][npmversion]][npmurl]
 [![npm][npmdownloads]][npmurl]
-[![Website](https://img.shields.io/badge/website-create--node--app.github.io-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://create-node-app.github.io)
+[![Website](https://img.shields.io/badge/website-create--node--app.github.io-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
 [![CI](https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml)
 
 <br clear="left" />
@@ -23,7 +23,7 @@ npx create-awesome-node-app my-app --template react-vite-boilerplate
 
 > The most complete production-ready SaaS boilerplate in the ecosystem
 
-**[➜ View Repository](https://github.com/Create-Node-App/nextjs-saas-ai-template)** · **[➜ Get Started](https://create-node-app.github.io/templates/nextjs-saas-ai-starter)**
+**[➜ View Repository](https://github.com/Create-Node-App/nextjs-saas-ai-template)** · **[➜ Get Started](https://create-awesome-node-app.vercel.app//templates/nextjs-saas-ai-starter)**
 
 A fully-featured Next.js 15 template for **multi-tenant SaaS** with AI built-in. Built for teams that want to ship fast without cutting corners.
 
@@ -57,7 +57,7 @@ gh repo create my-saas --template Create-Node-App/nextjs-saas-ai-template
 | [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) | 🛠️ The CLI — scaffold apps with templates and extensions |
 | [cna-templates](https://github.com/Create-Node-App/cna-templates) | 📚 All official templates and extensions registry |
 | [nextjs-saas-ai-template](https://github.com/Create-Node-App/nextjs-saas-ai-template) | 🌟 Flagship: multi-tenant SaaS + AI, production-ready |
-| [website](https://github.com/Create-Node-App/website) | 🌐 Browse templates and docs at [create-node-app.github.io](https://create-node-app.github.io) |
+| [website](https://github.com/Create-Node-App/website) | 🌐 Browse templates and docs at [create-node-app.github.io](https://create-awesome-node-app.vercel.app/) |
 
 ## 🚀 Available Templates
 
@@ -70,13 +70,13 @@ gh repo create my-saas --template Create-Node-App/nextjs-saas-ai-template
 | Browser Extension | Web Extension (React + Vite) |
 | Testing | WebdriverIO Boilerplate |
 
-→ [Browse all templates and extensions](https://create-node-app.github.io/templates)
+→ [Browse all templates and extensions](https://create-awesome-node-app.vercel.app//templates)
 
 ## 🔌 Extensions
 
 > Extend any template with 30+ official extensions: Tailwind CSS, shadcn/ui, Zustand, TanStack Query, Auth.js, Drizzle, Docker Compose, GitHub Actions CI, DevContainer, and more.
 >
-> → [Browse all extensions](https://create-node-app.github.io/extensions)
+> → [Browse all extensions](https://create-awesome-node-app.vercel.app//extensions)
 
 ## 🤝 Contributing
 
@@ -87,7 +87,7 @@ Great first issues are labeled [`good first issue`](https://github.com/Create-No
 ## 🔗 Find Us
 
 - 📦 **npm:** <a href="https://www.npmjs.com/package/create-awesome-node-app">create-awesome-node-app</a>
-- 🌐 **Website:** <a href="https://create-node-app.github.io">create-node-app.github.io</a>
+- 🌐 **Website:** <a href="https://create-awesome-node-app.vercel.app/">create-node-app.github.io</a>
 - ⭐ **Awesome Vite:** <a href="https://github.com/vitejs/awesome-vite#get-started">Listed</a>
 
 ## Sponsored External Projects
