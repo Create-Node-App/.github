@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite#get-started)
 [![npm][npmversion]][npmurl]
 [![npm][npmdownloads]][npmurl]
-[![Website](https://img.shields.io/badge/website-create--node--app.github.io-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
+[![Website](https://img.shields.io/badge/website-create--awesome--node--app.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
 
 <br clear="left" />
 
@@ -22,7 +22,7 @@ npx create-awesome-node-app my-app --template react-vite-boilerplate
 
 > The most complete production-ready SaaS boilerplate in the ecosystem
 
-**[➜ View Repository](https://github.com/Create-Node-App/nextjs-saas-ai-template)** · **[➜ Get Started](https://create-awesome-node-app.vercel.app//templates/nextjs-saas-ai-starter)**
+**[➜ View Repository](https://github.com/Create-Node-App/nextjs-saas-ai-template)** · **[➜ Get Started](https://create-awesome-node-app.vercel.app/templates/nextjs-saas-ai-starter)**
 
 A fully-featured Next.js 15 template for **multi-tenant SaaS** with AI built-in. Built for teams that want to ship fast without cutting corners.
 
@@ -69,13 +69,13 @@ gh repo create my-saas --template Create-Node-App/nextjs-saas-ai-template
 | Browser Extension | Web Extension (React + Vite) |
 | Testing | WebdriverIO Boilerplate |
 
-→ [Browse all templates and extensions](https://create-awesome-node-app.vercel.app//templates)
+→ [Browse all templates and extensions](https://create-awesome-node-app.vercel.app/templates)
 
 ## 🔌 Extensions
 
 > Extend any template with 30+ official extensions: Tailwind CSS, shadcn/ui, Zustand, TanStack Query, Auth.js, Drizzle, Docker Compose, GitHub Actions CI, DevContainer, and more.
 >
-> → [Browse all extensions](https://create-awesome-node-app.vercel.app//extensions)
+> → [Browse all extensions](https://create-awesome-node-app.vercel.app/extensions)
 
 ## 🤝 Contributing
 
@@ -86,14 +86,8 @@ Great first issues are labeled [`good first issue`](https://github.com/Create-No
 ## 🔗 Find Us
 
 - 📦 **npm:** <a href="https://www.npmjs.com/package/create-awesome-node-app">create-awesome-node-app</a>
-- 🌐 **Website:** <a href="https://create-awesome-node-app.vercel.app/">create-node-app.github.io</a>
+- 🌐 **Website:** <a href="https://create-awesome-node-app.vercel.app/">create-awesome-node-app.vercel.app</a>
 - ⭐ **Awesome Vite:** <a href="https://github.com/vitejs/awesome-vite#get-started">Listed</a>
-
-## Sponsored External Projects
-
-We proudly sponsor the following projects:
-
-- **[recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools):** Supercharge your Recoil development workflow (or any other state management architecture) with these developer tools. Simplify state change management like never before! 🔍
 
 ## Sponsored by
 
@@ -103,6 +97,5 @@ We proudly sponsor the following projects:
 
 [npmversion]: https://img.shields.io/npm/v/create-awesome-node-app.svg?maxAge=2592000?style=plastic
 [npmdownloads]: https://img.shields.io/npm/dm/create-awesome-node-app.svg?maxAge=2592000?style=plastic
-[ciurl]: https://github.com/Create-Node-App/create-node-app/actions/workflows/ci.yml
 [npmurl]: https://www.npmjs.com/package/create-awesome-node-app
 
