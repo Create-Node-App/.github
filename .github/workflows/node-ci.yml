@@ -1,0 +1,72 @@
+# Reusable Node.js CI workflow
+name: Node.js CI
+
+on:
+  workflow_call:
+    inputs:
+      node-version:
+        type: string
+        default: "22"
+      runs-on:
+        type: string
+        default: ubuntu-latest
+      package-manager:
+        type: string
+        default: npm
+
+jobs:
+  build:
+    runs-on: ${{ inputs.runs-on }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: ${{ inputs.node-version }}
+
+      - name: Install dependencies
+        run: |
+          case "${{ inputs.package-manager }}" in
+            npm) npm ci ;;
+            pnpm) pnpm install --frozen-lockfile ;;
+            yarn) yarn install --frozen ;;
+          esac
+
+      - name: Build
+        run: npm run build --if-present
+
+      - name: Type Check
+        run: npm run type-check --if-present
+
+      - name: Lint
+        run: npm run lint --if-present
+
+      - name: Test
+        run: npm test --if-present
+
+  coverage:
+    needs: build
+    runs-on: ${{ inputs.runs-on }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: ${{ inputs.node-version }}
+
+      - name: Install dependencies
+        run: |
+          case "${{ inputs.package-manager }}" in
+            npm) npm ci ;;
+            pnpm) pnpm install --frozen-lockfile ;;
+            yarn) yarn install --frozen ;;
+          esac
+
+      - name: Coverage
+        run: npm run test:coverage --if-present
+        env:
+          CI: true
