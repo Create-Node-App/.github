@@ -53,10 +53,11 @@ gh repo create my-saas --template Create-Node-App/nextjs-saas-ai-template
 
 | Repository | Description |
 |---|---|
-| [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) | 🛠️ The CLI — scaffold apps with templates and extensions |
-| [cna-templates](https://github.com/Create-Node-App/cna-templates) | 📚 All official templates and extensions registry |
+| [create-node-app](https://github.com/Create-Node-App/create-node-app) | 🛠️ The CLI source for `create-awesome-node-app` |
+| [cna-templates](https://github.com/Create-Node-App/cna-templates) | 📚 Official templates and extensions registry |
 | [nextjs-saas-ai-template](https://github.com/Create-Node-App/nextjs-saas-ai-template) | 🌟 Flagship: multi-tenant SaaS + AI, production-ready |
-| [website](https://github.com/Create-Node-App/website) | 🌐 Browse templates and docs at [create-node-app.github.io](https://create-awesome-node-app.vercel.app/) |
+| [website](https://github.com/Create-Node-App/website) | 🌐 Browse templates and docs at [create-awesome-node-app.vercel.app](https://create-awesome-node-app.vercel.app/) |
+| [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) | 📦 npm package for the scaffolding CLI |
 
 ## 🚀 Available Templates
 
@@ -98,4 +99,3 @@ Great first issues are labeled [`good first issue`](https://github.com/Create-No
 [npmversion]: https://img.shields.io/npm/v/create-awesome-node-app.svg?maxAge=2592000?style=plastic
 [npmdownloads]: https://img.shields.io/npm/dm/create-awesome-node-app.svg?maxAge=2592000?style=plastic
 [npmurl]: https://www.npmjs.com/package/create-awesome-node-app
-
