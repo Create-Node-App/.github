@@ -1,5 +1,11 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
+  - name: Bug Report
+    url: https://github.com/Create-Node-App/create-node-app/issues/new?template=bug_report.yml
+    about: Create a report to help us improve
+  - name: Feature Request
+    url: https://github.com/Create-Node-App/create-node-app/issues/new?template=feature_request.yml
+    about: Suggest an idea for this project
   - name: Questions & Discussions
     url: https://github.com/Create-Node-App/create-node-app/discussions
     about: Use GitHub Discussions for questions and general feedback
