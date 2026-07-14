@@ -1,13 +1,21 @@
 # Create Awesome Node App
 
-**One command. Any stack.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="200px" srcset="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
+  <img alt="" align="left" width="200px" src="https://github.com/Create-Node-App/.github/blob/main/profile/octocat-1696139484130.png?raw=true"/>
+</picture>
 
-Choose a template, add addons, and ship production-ready Node, Web, Full-Stack, and AI-ready apps from a cozy developer workbench.
+**One command. Any stack.**
 
 [![Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite#get-started)
 [![npm][npmversion]][npmurl]
 [![npm][npmdownloads]][npmurl]
 [![Website](https://img.shields.io/badge/website-create--awesome--node--app.vercel.app-0d9488?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
+
+Choose a template, add addons, and ship production-ready Node, Web, Full-Stack, and AI-ready apps from a cozy developer workbench.
+
+<br clear="left" />
+<br clear="left" />
 
 ```bash
 npm create awesome-node-app@latest my-app
