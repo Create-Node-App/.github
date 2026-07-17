@@ -93,6 +93,17 @@ We welcome contributions — templates, extensions, bug fixes, and docs.
 - **Website:** [create-awesome-node-app.vercel.app](https://create-awesome-node-app.vercel.app/)
 - **Awesome Vite:** [Listed](https://github.com/vitejs/awesome-vite#get-started)
 
+
+## Part of the Create Awesome App ecosystem
+
+| Org | Stack | Status |
+|-----|-------|--------|
+| [Create-Node-App](https://github.com/Create-Node-App) | Node.js, TypeScript | ✅ Production |
+| [Create-Python-App](https://github.com/Create-Python-App) | Python | 🧪 Beta |
+| [Create-Vlang-App](https://github.com/Create-Vlang-App) | V language | 🔜 Planned |
+
+Website: [create-awesome-python-app.vercel.app](https://create-awesome-python-app.vercel.app/)
+
 ## Sponsored by
 
 <a href="https://github.com/nanlabs" target="_blank">
