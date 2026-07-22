@@ -11,6 +11,7 @@
 [![npm][npmversion]][npmurl]
 [![npm][npmdownloads]][npmurl]
 [![Website](https://img.shields.io/badge/website-create--awesome--node--app.vercel.app-0d9488?style=flat-square&logo=vercel&logoColor=white)](https://create-awesome-node-app.vercel.app/)
+[![Discord](https://img.shields.io/discord/1527933660764831825?style=flat-square&label=Discord&logo=discord&logoColor=white)](https://discord.gg/dwFTsR7fK2)
 
 Choose a template, add addons, and ship production-ready Node, Web, Full-Stack, and AI-ready apps from a cozy developer workbench.
 
