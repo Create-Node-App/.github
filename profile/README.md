@@ -101,7 +101,7 @@ We welcome contributions — templates, extensions, bug fixes, and docs.
 |-----|-------|--------|
 | [Create-Node-App](https://github.com/Create-Node-App) | Node.js, TypeScript | ✅ Production |
 | [Create-Python-App](https://github.com/Create-Python-App) | Python | 🧪 Beta |
-| [Create-Vlang-App](https://github.com/Create-Vlang-App) | V language | 🔜 Planned |
+| [Create-Vlang-App](https://create-awesome-vlang-app.vercel.app) | V language | ✅ Live |
 
 Website: [create-awesome-python-app.vercel.app](https://create-awesome-python-app.vercel.app/)
 
