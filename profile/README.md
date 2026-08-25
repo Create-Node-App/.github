@@ -95,6 +95,22 @@ We welcome contributions — templates, extensions, bug fixes, and docs.
 - **Awesome Vite:** [Listed](https://github.com/vitejs/awesome-vite#get-started)
 
 
+## 👥 Contributors
+
+### `create-node-app` — CLI
+
+<a href="https://github.com/Create-Node-App/create-node-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Create-Node-App/create-node-app" alt="Contributors — create-node-app" />
+</a>
+
+### `cna-templates` — Templates & Extensions
+
+<a href="https://github.com/Create-Node-App/cna-templates/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Create-Node-App/cna-templates" alt="Contributors — cna-templates" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## Part of the Create Awesome App ecosystem
 
 | Org | Stack | Status |
