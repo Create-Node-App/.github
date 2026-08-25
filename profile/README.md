@@ -31,9 +31,9 @@ npx create-awesome-node-app my-app \
   --no-interactive
 ```
 
-## Flagship — Next.js SaaS AI Starter
+## Flagship: Next.js SaaS AI Starter
 
-Multi-tenant SaaS with AI built in. Use it when you need Auth, Drizzle, pgvector, PBAC, and an admin panel on day one — not as the look of every CNA starter.
+Multi-tenant SaaS with AI built in. Use it when you need Auth, Drizzle, pgvector, PBAC, and an admin panel on day one, not as the look of every CNA starter.
 
 **[View repository](https://github.com/Create-Node-App/nextjs-saas-ai-template)** · **[Get started](https://create-awesome-node-app.vercel.app/templates/nextjs-saas-ai-starter)**
 
@@ -83,10 +83,10 @@ Extend any template with official addons: Tailwind CSS, shadcn/ui, Zustand, TanS
 
 ## Contributing
 
-We welcome contributions — templates, extensions, bug fixes, and docs.
+We welcome contributions: templates, extensions, bug fixes, and docs.
 
 - [Contributing guide](https://github.com/Create-Node-App/create-node-app/blob/main/CONTRIBUTING.md)
-- Brand identity: cozy nest (amber + teal) — see [docs/BRAND.md](https://github.com/Create-Node-App/create-node-app/blob/main/docs/BRAND.md)
+- Brand identity: cozy nest (amber + teal). See [docs/BRAND.md](https://github.com/Create-Node-App/create-node-app/blob/main/docs/BRAND.md)
 
 ## Find us
 
@@ -97,16 +97,16 @@ We welcome contributions — templates, extensions, bug fixes, and docs.
 
 ## 👥 Contributors
 
-### `create-node-app` — CLI
+### `create-node-app`: CLI
 
 <a href="https://github.com/Create-Node-App/create-node-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Create-Node-App/create-node-app" alt="Contributors — create-node-app" />
+  <img src="https://contrib.rocks/image?repo=Create-Node-App/create-node-app" alt="Contributors for create-node-app" />
 </a>
 
-### `cna-templates` — Templates & Extensions
+### `cna-templates`: Templates & Extensions
 
 <a href="https://github.com/Create-Node-App/cna-templates/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Create-Node-App/cna-templates" alt="Contributors — cna-templates" />
+  <img src="https://contrib.rocks/image?repo=Create-Node-App/cna-templates" alt="Contributors for cna-templates" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
