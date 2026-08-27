@@ -92,6 +92,7 @@ We welcome contributions: templates, extensions, bug fixes, and docs.
 
 - **npm:** [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app)
 - **Website:** [create-awesome-node-app.vercel.app](https://create-awesome-node-app.vercel.app/)
+- **Discord:** [Join the Create Awesome community](https://discord.gg/bR5VyATgka)
 - **Awesome Vite:** [Listed](https://github.com/vitejs/awesome-vite#get-started)
 
 
