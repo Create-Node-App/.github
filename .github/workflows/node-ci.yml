@@ -14,15 +14,20 @@ on:
         type: string
         default: npm
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ${{ inputs.runs-on }}
+    permissions:
+      contents: read
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
 
       - name: Setup Node
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
         with:
           node-version: ${{ inputs.node-version }}
 
@@ -46,15 +51,30 @@ jobs:
       - name: Test
         run: npm test --if-present
 
+      - name: Audit dependencies (npm)
+        if: inputs.package-manager == 'npm'
+        run: npm audit --audit-level=high
+
+      - name: Audit dependencies (pnpm)
+        if: inputs.package-manager == 'pnpm'
+        run: pnpm audit --audit-level high || true
+
+      - name: OSV Scanner
+        uses: google/osv-scanner-action@456ceb78310755116e0a3738121351006286b797 # v2.2.1
+        with:
+          scan-args: . --recursive
+
   coverage:
     needs: build
     runs-on: ${{ inputs.runs-on }}
+    permissions:
+      contents: read
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
 
       - name: Setup Node
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
         with:
           node-version: ${{ inputs.node-version }}
 
